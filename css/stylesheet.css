@@ -14,6 +14,9 @@ body {
 	color: silver;
 
 }
+.group4 {
+	color: silver;
+}
 
 .group2 {
 	color: silver;
@@ -22,12 +25,21 @@ body {
 
 .group5 {
 	text-align: center;
-	color: silver;
+	color: MediumSeaGreen;
     font-family: 'cursive', cursive;
 }
-
-.group 6 {
+.group6 {
 	text-align: center;
+}
+.group7 {
+	text-align: center;
+}
+.group8 {
+	text-align: center;
+	font-family: 'cursive', cursive;
+}
+.group9 {
+
 }
 .heading {
 	color:yellow;
@@ -52,3 +64,8 @@ element.style {
     position: relative;
     line-height: inherit;
     display: block;
+}
+
+.silver{
+	color:silver;
+}
